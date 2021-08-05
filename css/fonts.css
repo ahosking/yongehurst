@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'socialico';
+    src: url('../fonts/socialico/Socialico.ttf') format('truetype'),
+         url('../fonts/socialico/Socialico.oft') format('opentype');
+}
+@font-face {
+    font-family: 'socialicoplus';
+    src: url('../fonts/socialico/Socialico Plus.ttf') format('truetype'),
+         url('../fonts/socialico/Socialico Plus.oft') format('opentype');
+}
+@font-face {
+    font-family: 'alternategothic2';
+    src: url('../fonts/Alternate-Gothic-No-2-BT_3209.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Din';
+    font-weight: 100;
+    src: url('../fonts/din/DINWeb-CondLight.ttf') format('truetype'),
+         url('../fonts/din/DINWeb-CondLight.otf') format('opentype');
+}
